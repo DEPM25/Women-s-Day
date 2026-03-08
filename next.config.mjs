@@ -6,6 +6,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-}
+  output: "export",
+  basePath: "/Women-s-Day",
+  assetPrefix: "/Women-s-Day",
+};
 
 export default nextConfig

@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[98924,["/Women-s-Day/_next/static/chunks/a624b468970d3cc4.js","/Women-s-Day/_next/static/chunks/ff1a16fafef87110.js","/Women-s-Day/_next/static/chunks/c608022c81e17ab1.js"],"HeroSection"]
+3:I[4091,["/Women-s-Day/_next/static/chunks/a624b468970d3cc4.js","/Women-s-Day/_next/static/chunks/ff1a16fafef87110.js","/Women-s-Day/_next/static/chunks/c608022c81e17ab1.js"],"QualitiesSection"]
+4:I[19432,["/Women-s-Day/_next/static/chunks/a624b468970d3cc4.js","/Women-s-Day/_next/static/chunks/ff1a16fafef87110.js","/Women-s-Day/_next/static/chunks/c608022c81e17ab1.js"],"CapabilitiesSection"]
+5:I[14883,["/Women-s-Day/_next/static/chunks/a624b468970d3cc4.js","/Women-s-Day/_next/static/chunks/ff1a16fafef87110.js","/Women-s-Day/_next/static/chunks/c608022c81e17ab1.js"],"MessageSection"]
+6:I[39225,["/Women-s-Day/_next/static/chunks/a624b468970d3cc4.js","/Women-s-Day/_next/static/chunks/ff1a16fafef87110.js","/Women-s-Day/_next/static/chunks/c608022c81e17ab1.js"],"FooterSection"]
+7:I[97367,["/Women-s-Day/_next/static/chunks/ff1a16fafef87110.js","/Women-s-Day/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+0:{"buildId":"8n1IMHo7qA7LTUnMaiX_F","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-background","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}]]}],[["$","script","script-0",{"src":"/Women-s-Day/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/Women-s-Day/_next/static/chunks/c608022c81e17ab1.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"loading":null,"isPartial":false}
+9:null
