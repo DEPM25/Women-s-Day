@@ -5,11 +5,11 @@ import { useRef } from "react"
 import Image from "next/image"
 
 const photos = [
-  { src: "/1.jpeg", alt: "Foto 1" },
-  { src: "/2.jpeg", alt: "Foto 2" },
-  { src: "/3.jpeg", alt: "Foto 3" },
-  { src: "/4.jpeg", alt: "Foto 4" },
-]
+  { src: `${process.env.NEXT_PUBLIC_BASE_PATH}/1.jpeg`, alt: "Foto 1" },
+  { src: `${process.env.NEXT_PUBLIC_BASE_PATH}/2.jpeg`, alt: "Foto 2" },
+  { src: `${process.env.NEXT_PUBLIC_BASE_PATH}/3.jpeg`, alt: "Foto 3" },
+  { src: `${process.env.NEXT_PUBLIC_BASE_PATH}/4.jpeg`, alt: "Foto 4" },
+];
 
 export function CapabilitiesSection() {
   const containerRef = useRef<HTMLDivElement>(null)
